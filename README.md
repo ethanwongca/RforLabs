@@ -1,6 +1,6 @@
 # R Packages and Functions for Labs
 
-Here is some R packages and Functions I created to make my labs easier at university. 
+Here is some R packages and functions I created to make my labs easier at university. 
 
 <h2> Objective </h2>
 I made R packages and functions to make labs easier at school, so specific equations would be solved immediately, these packages will be physics and chemistry equations. R will also help me organize data easier when needed.
