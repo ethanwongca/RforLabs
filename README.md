@@ -9,5 +9,8 @@ I made R packages and functions to make labs easier at school, so specific equat
 <h3> Gas Chemistry R Functions </h3>
 These conseceutive functions are simple functions, so I can insert my repetitive data quicker into equations. Since the lab report requires no graphing I only created mathematical functions for this lab. 
 
+<h3> Capacitance Lab A Physics </h3>
+In this lab, the theoretical capacitance is being compared to the mean and the standard deviation is looked at. So in this portion of the R code I made a matrix and use of vectors to display and get specific values of the data.
+
 
 
