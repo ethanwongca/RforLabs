@@ -7,7 +7,6 @@ electricConstant <- 8.85*10^-12
 areaofCapacitorsinM <- c(200*10^-4, 100*10^-4, 50*1^-4)
 distance <- 1*10^-3
 dielectricConstantPaper <- 3
-x <- c(1, 2, 3, 4, 5)
 
 # Values obtained from the arduino to measure capacitance
 # 200 cm^2
