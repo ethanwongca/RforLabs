@@ -1,5 +1,5 @@
 #Gas Chemistry Lab Functions 
-massCaCO3 <- c(.403, .410, .418)
+massCaCO3 <- c(0.403, 0.410, 0.418)
 pressureCaCO3I <- c(26.37, 28.45, 25.71)
 temperatureCaCO3 <- c(23.4, 23.5, 22.4)
 
