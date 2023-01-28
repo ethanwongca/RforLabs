@@ -23,7 +23,7 @@ STD <- c(sd(firstValueTime10Power11), sd(secondValueTime10Power11), sd(thirdValu
 matrix <- c(means, STD)
 dim(matrix) <- c(3,2)
 rownames(areaofCapacitorsinM)
-colnames(x) <- c(area, mean, STD)
+colnames(x) <- c('area', 'mean', 'STD')
 
 
 capacitanceTheoretical <- function(areaofCapacitorsinM, distance) {
