@@ -12,5 +12,5 @@ These conseceutive functions are simple functions, so I can insert my repetitive
 <h3> Capacitance Lab A Physics </h3>
 In this lab, the theoretical capacitance is being compared to the mean and the standard deviation is looked at. So in this portion of the R code I made a matrix and use of vectors to display and get specific values of the data.
 
-
+<h2> Curve Fit Graph </h2>
 
